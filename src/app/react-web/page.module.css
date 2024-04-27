@@ -1,0 +1,18 @@
+
+.topheader {
+    padding: 8px;
+    background-color: #374151;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.learnMore{
+    color: #139eca;
+}
+
+.headerMain{
+    display: flex;
+    margin-top: 8px;
+    margin-left: 16px;
+    margin-right: 16px;
+}
